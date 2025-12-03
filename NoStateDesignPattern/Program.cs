@@ -1,0 +1,3 @@
+﻿using NoStateDesignPattern;
+
+Application.Run();
